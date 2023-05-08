@@ -1,0 +1,16 @@
+.UserTable{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-collapse: separate;
+  border-spacing:  15px;
+}
+table, th, td {
+  border: 1px solid;
+}
+.Title{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
